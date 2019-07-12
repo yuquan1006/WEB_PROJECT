@@ -1,0 +1,33 @@
+[2019-07-11 17:57:45,726] [test_LoginPage.py:Methond:test_loginBusiness(29)] [INFO]:  Testcase - > 开始检验检查点
+[2019-07-11 17:57:55,833] [test_LoginPage.py:Methond:test_loginBusiness(34)] [INFO]:  Testcase - > Test FAIL !
+[2019-07-11 17:58:05,164] [test_LoginPage.py:Methond:test_loginpage_forgetpwd(53)] [INFO]:  Testcase - > 开始检验检查点
+[2019-07-11 17:58:06,215] [test_LoginPage.py:Methond:test_loginpage_forgetpwd(56)] [INFO]:  Testcase - > Test PASS !
+[2019-07-11 17:58:15,567] [test_LoginPage.py:Methond:test_loginpage_goaboutwe(108)] [INFO]:  Testcase - > 开始检验检查点
+[2019-07-11 17:58:16,600] [test_LoginPage.py:Methond:test_loginpage_goaboutwe(111)] [INFO]:  Testcase - > Test PASS !
+[2019-07-11 17:58:25,857] [test_LoginPage.py:Methond:test_loginpage_gogylkj(97)] [INFO]:  Testcase - > 开始检验检查点
+[2019-07-11 17:58:26,893] [test_LoginPage.py:Methond:test_loginpage_gogylkj(100)] [INFO]:  Testcase - > Test PASS !
+[2019-07-11 17:58:36,202] [test_LoginPage.py:Methond:test_loginpage_gokjsd(75)] [INFO]:  Testcase - > 开始检验检查点
+[2019-07-11 17:58:37,233] [test_LoginPage.py:Methond:test_loginpage_gokjsd(78)] [INFO]:  Testcase - > Test PASS !
+[2019-07-11 17:58:46,514] [test_LoginPage.py:Methond:test_loginpage_gokjsk(86)] [INFO]:  Testcase - > 开始检验检查点
+[2019-07-11 17:58:47,544] [test_LoginPage.py:Methond:test_loginpage_gokjsk(89)] [INFO]:  Testcase - > Test PASS !
+[2019-07-11 17:58:56,761] [test_LoginPage.py:Methond:test_loginpage_gotouchwe(118)] [INFO]:  Testcase - > 开始检验检查点
+[2019-07-11 17:58:57,811] [test_LoginPage.py:Methond:test_loginpage_gotouchwe(121)] [INFO]:  Testcase - > Test PASS !
+[2019-07-11 17:59:07,527] [test_LoginPage.py:Methond:test_loginpage_registerBusigness(41)] [INFO]:  Testcase - > 开始检验检查点
+[2019-07-11 17:59:08,556] [test_LoginPage.py:Methond:test_loginpage_registerBusigness(44)] [INFO]:  Testcase - > Test PASS !
+[2019-07-11 17:59:35,754] [test_LoginPage.py:Methond:test_loginpage_returnmain(64)] [INFO]:  Testcase - > 开始检验检查点
+[2019-07-11 17:59:35,754] [test_LoginPage.py:Methond:test_loginpage_returnmain(69)] [INFO]:  Testcase - > Test FAIL !
+[2019-07-11 18:02:10,140] [test_LoginPage.py:Methond:test_loginBusiness(29)] [INFO]:  Testcase - > 开始检验检查点
+[2019-07-11 18:02:20,229] [test_LoginPage.py:Methond:test_loginBusiness(34)] [INFO]:  Testcase - > Test FAIL !
+[2019-07-11 18:02:20,229] [test_LoginPage.py:Methond:test_loginBusiness(35)] [ERROR]:  断言失败，可能原因：False is not true
+[2019-07-11 18:02:29,983] [test_LoginPage.py:Methond:test_loginpage_forgetpwd(54)] [INFO]:  Testcase - > 开始检验检查点
+[2019-07-11 18:02:31,016] [test_LoginPage.py:Methond:test_loginpage_forgetpwd(57)] [INFO]:  Testcase - > Test PASS !
+[2019-07-11 18:02:40,439] [test_LoginPage.py:Methond:test_loginpage_goaboutwe(109)] [INFO]:  Testcase - > 开始检验检查点
+[2019-07-11 18:02:41,488] [test_LoginPage.py:Methond:test_loginpage_goaboutwe(112)] [INFO]:  Testcase - > Test PASS !
+[2019-07-11 18:02:50,923] [test_LoginPage.py:Methond:test_loginpage_gogylkj(98)] [INFO]:  Testcase - > 开始检验检查点
+[2019-07-11 18:02:51,950] [test_LoginPage.py:Methond:test_loginpage_gogylkj(101)] [INFO]:  Testcase - > Test PASS !
+[2019-07-11 18:03:01,305] [test_LoginPage.py:Methond:test_loginpage_gokjsd(76)] [INFO]:  Testcase - > 开始检验检查点
+[2019-07-11 18:03:02,337] [test_LoginPage.py:Methond:test_loginpage_gokjsd(79)] [INFO]:  Testcase - > Test PASS !
+[2019-07-11 18:03:12,038] [test_LoginPage.py:Methond:test_loginpage_gokjsk(87)] [INFO]:  Testcase - > 开始检验检查点
+[2019-07-11 18:03:13,080] [test_LoginPage.py:Methond:test_loginpage_gokjsk(90)] [INFO]:  Testcase - > Test PASS !
+[2019-07-11 18:03:22,558] [test_LoginPage.py:Methond:test_loginpage_gotouchwe(119)] [INFO]:  Testcase - > 开始检验检查点
+[2019-07-11 18:03:23,605] [test_LoginPage.py:Methond:test_loginpage_gotouchwe(122)] [INFO]:  Testcase - > Test PASS !

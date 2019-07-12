@@ -1,0 +1,170 @@
+[2019-07-11 17:45:27,966] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:45:27,976] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="邮箱/手机号"]
+[2019-07-11 17:45:27,993] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="邮箱/手机号"]')元素 [输入文本]：yu@qq.com
+[2019-07-11 17:45:28,011] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="登录密码"]
+[2019-07-11 17:45:28,026] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="登录密码"]')元素 [输入文本]：123456yu
+[2019-07-11 17:45:28,042] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-form-item__content>button
+[2019-07-11 17:45:28,263] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div.el-form-item__content>button')元素  [点击]
+[2019-07-11 17:45:28,270] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.verify-move-block
+[2019-07-11 17:45:28,847] [Base.py:Methond:action_slide(381)] [INFO]:  鼠标滑动异常！ Reason:not all arguments converted during string formatting
+[2019-07-11 17:48:43,068] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:48:43,089] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="邮箱/手机号"]
+[2019-07-11 17:48:43,145] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="邮箱/手机号"]')元素 [输入文本]：yu@qq.com
+[2019-07-11 17:48:43,160] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="登录密码"]
+[2019-07-11 17:48:43,180] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="登录密码"]')元素 [输入文本]：123456yu
+[2019-07-11 17:48:43,196] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-form-item__content>button
+[2019-07-11 17:48:43,418] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div.el-form-item__content>button')元素  [点击]
+[2019-07-11 17:48:43,431] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.verify-move-block
+[2019-07-11 17:48:44,223] [Base.py:Methond:action_slide(381)] [INFO]:  鼠标滑动异常！ Reason:not all arguments converted during string formatting
+[2019-07-11 17:49:06,699] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:49:06,710] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="忘记密码"]
+[2019-07-11 17:49:06,922] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="忘记密码"]')元素  [点击]
+[2019-07-11 17:49:07,947] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//*[text()="找回密码"]
+[2019-07-11 17:50:22,426] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:50:22,435] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="邮箱/手机号"]
+[2019-07-11 17:50:22,486] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="邮箱/手机号"]')元素 [输入文本]：yu@qq.com
+[2019-07-11 17:50:22,503] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="登录密码"]
+[2019-07-11 17:50:22,529] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="登录密码"]')元素 [输入文本]：123456yu
+[2019-07-11 17:50:22,545] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-form-item__content>button
+[2019-07-11 17:50:22,767] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div.el-form-item__content>button')元素  [点击]
+[2019-07-11 17:50:22,774] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.verify-move-block
+[2019-07-11 17:50:23,366] [Base.py:Methond:action_slide(381)] [INFO]:  鼠标滑动异常！ Reason:not all arguments converted during string formatting
+[2019-07-11 17:51:59,399] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:51:59,409] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="邮箱/手机号"]
+[2019-07-11 17:51:59,426] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="邮箱/手机号"]')元素 [输入文本]：yu@qq.com
+[2019-07-11 17:51:59,444] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="登录密码"]
+[2019-07-11 17:51:59,459] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="登录密码"]')元素 [输入文本]：123456yu
+[2019-07-11 17:51:59,471] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-form-item__content>button
+[2019-07-11 17:51:59,691] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div.el-form-item__content>button')元素  [点击]
+[2019-07-11 17:51:59,699] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.verify-move-block
+[2019-07-11 17:52:00,261] [Base.py:Methond:action_slide(381)] [INFO]:  鼠标滑动异常！ Reason:unsupported format character '?' (0x5143) at index 4
+[2019-07-11 17:54:10,382] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:54:10,391] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="邮箱/手机号"]
+[2019-07-11 17:54:10,413] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="邮箱/手机号"]')元素 [输入文本]：yu@qq.com
+[2019-07-11 17:54:10,458] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="登录密码"]
+[2019-07-11 17:54:10,480] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="登录密码"]')元素 [输入文本]：123456yu
+[2019-07-11 17:54:10,497] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-form-item__content>button
+[2019-07-11 17:54:10,720] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div.el-form-item__content>button')元素  [点击]
+[2019-07-11 17:54:10,728] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.verify-move-block
+[2019-07-11 17:54:11,275] [Base.py:Methond:action_slide(379)] [INFO]:  页面进行滑动
+[2019-07-11 17:55:16,284] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:55:16,293] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="邮箱/手机号"]
+[2019-07-11 17:55:16,343] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="邮箱/手机号"]')元素 [输入文本]：yu@qq.com
+[2019-07-11 17:55:16,363] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="登录密码"]
+[2019-07-11 17:55:16,384] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="登录密码"]')元素 [输入文本]：123456yu
+[2019-07-11 17:55:16,399] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-form-item__content>button
+[2019-07-11 17:55:16,622] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div.el-form-item__content>button')元素  [点击]
+[2019-07-11 17:55:16,629] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.verify-move-block
+[2019-07-11 17:55:17,168] [Base.py:Methond:action_slide(379)] [INFO]:  页面进行滑动
+[2019-07-11 17:55:40,569] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:55:40,580] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="忘记密码"]
+[2019-07-11 17:55:40,792] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="忘记密码"]')元素  [点击]
+[2019-07-11 17:55:41,802] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//*[text()="找回密码"]
+[2019-07-11 17:55:55,135] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:55:55,145] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="关于我们"]
+[2019-07-11 17:55:55,168] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="关于我们"]')元素  [点击]
+[2019-07-11 17:55:55,180] [Base.py:Methond:is_links(571)] [INFO]:  https://www.ipaylinks.com/cn/aboutus.html
+[2019-07-11 17:55:55,181] [Base.py:Methond:is_links(572)] [INFO]:  http://mesnew1.innertest.ipaylinks.com/#/login
+[2019-07-11 17:55:55,181] [Base.py:Methond:is_links(577)] [INFO]:  https://www.ipaylinks.com/cn/aboutus.html
+[2019-07-11 17:56:07,929] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:56:07,938] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="供应链科技"]
+[2019-07-11 17:56:07,950] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="供应链科技"]')元素  [点击]
+[2019-07-11 17:56:07,974] [Base.py:Methond:is_links(571)] [INFO]:  https://www.ipaylinks.com/cn/dsd.html
+[2019-07-11 17:56:07,974] [Base.py:Methond:is_links(572)] [INFO]:  http://mesnew1.innertest.ipaylinks.com/#/login
+[2019-07-11 17:56:07,974] [Base.py:Methond:is_links(577)] [INFO]:  https://www.ipaylinks.com/cn/dsd.html
+[2019-07-11 17:57:45,445] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:57:45,466] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="邮箱/手机号"]
+[2019-07-11 17:57:45,565] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="邮箱/手机号"]')元素 [输入文本]：yu@qq.com
+[2019-07-11 17:57:45,580] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="登录密码"]
+[2019-07-11 17:57:45,635] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="登录密码"]')元素 [输入文本]：123456yu
+[2019-07-11 17:57:45,654] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-form-item__content>button
+[2019-07-11 17:57:45,688] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div.el-form-item__content>button')元素  [点击]
+[2019-07-11 17:57:45,703] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.verify-move-block
+[2019-07-11 17:57:45,725] [Base.py:Methond:action_slide(379)] [INFO]:  页面进行滑动
+[2019-07-11 17:58:05,084] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:58:05,114] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="忘记密码"]
+[2019-07-11 17:58:05,164] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="忘记密码"]')元素  [点击]
+[2019-07-11 17:58:06,215] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//*[text()="找回密码"]
+[2019-07-11 17:58:15,511] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:58:15,530] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="关于我们"]
+[2019-07-11 17:58:15,567] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="关于我们"]')元素  [点击]
+[2019-07-11 17:58:16,588] [Base.py:Methond:is_links(571)] [INFO]:  https://www.ipaylinks.com/cn/aboutus.html
+[2019-07-11 17:58:16,588] [Base.py:Methond:is_links(572)] [INFO]:  https://www.ipaylinks.com/cn/aboutus.html
+[2019-07-11 17:58:25,809] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:58:25,823] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="供应链科技"]
+[2019-07-11 17:58:25,857] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="供应链科技"]')元素  [点击]
+[2019-07-11 17:58:26,879] [Base.py:Methond:is_links(571)] [INFO]:  https://www.ipaylinks.com/cn/dsd.html
+[2019-07-11 17:58:26,879] [Base.py:Methond:is_links(572)] [INFO]:  https://www.ipaylinks.com/cn/dsd.html
+[2019-07-11 17:58:36,148] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:58:36,168] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="独立站收单"]
+[2019-07-11 17:58:36,201] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="独立站收单"]')元素  [点击]
+[2019-07-11 17:58:37,224] [Base.py:Methond:is_links(571)] [INFO]:  https://www.ipaylinks.com/cn/acquiring.html
+[2019-07-11 17:58:37,225] [Base.py:Methond:is_links(572)] [INFO]:  https://www.ipaylinks.com/cn/acquiring.html
+[2019-07-11 17:58:46,463] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:58:46,479] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="平台收款"]
+[2019-07-11 17:58:46,514] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="平台收款"]')元素  [点击]
+[2019-07-11 17:58:47,536] [Base.py:Methond:is_links(571)] [INFO]:  https://www.ipaylinks.com/cn/mes.html
+[2019-07-11 17:58:47,536] [Base.py:Methond:is_links(572)] [INFO]:  https://www.ipaylinks.com/cn/mes.html
+[2019-07-11 17:58:56,709] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:58:56,727] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="联系我们"]
+[2019-07-11 17:58:56,761] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="联系我们"]')元素  [点击]
+[2019-07-11 17:58:57,802] [Base.py:Methond:is_links(571)] [INFO]:  https://www.ipaylinks.com/cn/contactus.html
+[2019-07-11 17:58:57,802] [Base.py:Methond:is_links(572)] [INFO]:  https://www.ipaylinks.com/cn/contactus.html
+[2019-07-11 17:59:07,478] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:59:07,494] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="立即注册"]
+[2019-07-11 17:59:07,527] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="立即注册"]')元素  [点击]
+[2019-07-11 17:59:08,556] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//*[text()="手机注册"]
+[2019-07-11 17:59:17,877] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:59:17,902] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="返回首页"]
+[2019-07-11 17:59:35,754] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="返回首页"]')元素  [点击]
+[2019-07-11 18:02:09,856] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 18:02:09,870] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="邮箱/手机号"]
+[2019-07-11 18:02:09,968] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="邮箱/手机号"]')元素 [输入文本]：yu@qq.com
+[2019-07-11 18:02:09,982] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="登录密码"]
+[2019-07-11 18:02:10,047] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="登录密码"]')元素 [输入文本]：123456yu
+[2019-07-11 18:02:10,070] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-form-item__content>button
+[2019-07-11 18:02:10,106] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div.el-form-item__content>button')元素  [点击]
+[2019-07-11 18:02:10,119] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.verify-move-block
+[2019-07-11 18:02:10,140] [Base.py:Methond:action_slide(379)] [INFO]:  页面进行滑动
+[2019-07-11 18:02:29,927] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 18:02:29,947] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="忘记密码"]
+[2019-07-11 18:02:29,983] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="忘记密码"]')元素  [点击]
+[2019-07-11 18:02:31,016] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//*[text()="找回密码"]
+[2019-07-11 18:02:40,390] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 18:02:40,405] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="关于我们"]
+[2019-07-11 18:02:40,439] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="关于我们"]')元素  [点击]
+[2019-07-11 18:02:41,479] [Base.py:Methond:is_links(571)] [INFO]:  https://www.ipaylinks.com/cn/aboutus.html
+[2019-07-11 18:02:41,479] [Base.py:Methond:is_links(572)] [INFO]:  https://www.ipaylinks.com/cn/aboutus.html
+[2019-07-11 18:02:50,874] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 18:02:50,890] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="供应链科技"]
+[2019-07-11 18:02:50,923] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="供应链科技"]')元素  [点击]
+[2019-07-11 18:02:51,941] [Base.py:Methond:is_links(571)] [INFO]:  https://www.ipaylinks.com/cn/dsd.html
+[2019-07-11 18:02:51,942] [Base.py:Methond:is_links(572)] [INFO]:  https://www.ipaylinks.com/cn/dsd.html
+[2019-07-11 18:03:01,253] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 18:03:01,269] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="独立站收单"]
+[2019-07-11 18:03:01,305] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="独立站收单"]')元素  [点击]
+[2019-07-11 18:03:02,329] [Base.py:Methond:is_links(571)] [INFO]:  https://www.ipaylinks.com/cn/acquiring.html
+[2019-07-11 18:03:02,329] [Base.py:Methond:is_links(572)] [INFO]:  https://www.ipaylinks.com/cn/acquiring.html
+[2019-07-11 18:03:11,944] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 18:03:11,996] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="平台收款"]
+[2019-07-11 18:03:12,038] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="平台收款"]')元素  [点击]
+[2019-07-11 18:03:13,072] [Base.py:Methond:is_links(571)] [INFO]:  https://www.ipaylinks.com/cn/mes.html
+[2019-07-11 18:03:13,072] [Base.py:Methond:is_links(572)] [INFO]:  https://www.ipaylinks.com/cn/mes.html
+[2019-07-11 18:03:22,506] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 18:03:22,523] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="联系我们"]
+[2019-07-11 18:03:22,558] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="联系我们"]')元素  [点击]
+[2019-07-11 18:03:23,595] [Base.py:Methond:is_links(571)] [INFO]:  https://www.ipaylinks.com/cn/contactus.html
+[2019-07-11 18:03:23,596] [Base.py:Methond:is_links(572)] [INFO]:  https://www.ipaylinks.com/cn/contactus.html
+[2019-07-11 18:03:35,520] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 18:03:35,535] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="邮箱/手机号"]
+[2019-07-11 18:03:35,633] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="邮箱/手机号"]')元素 [输入文本]：yu@qq.com
+[2019-07-11 18:03:35,649] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="登录密码"]
+[2019-07-11 18:03:35,709] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="登录密码"]')元素 [输入文本]：123456yu
+[2019-07-11 18:03:35,722] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-form-item__content>button
+[2019-07-11 18:03:35,762] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div.el-form-item__content>button')元素  [点击]
+[2019-07-11 18:03:35,775] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.verify-move-block
+[2019-07-11 18:03:35,796] [Base.py:Methond:action_slide(379)] [INFO]:  页面进行滑动
+[2019-07-11 18:03:55,282] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 18:03:55,324] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="忘记密码"]
+[2019-07-11 18:03:55,364] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="忘记密码"]')元素  [点击]
+[2019-07-11 18:03:56,387] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//*[text()="找回密码"]

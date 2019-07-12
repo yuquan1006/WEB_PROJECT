@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Auto_MesUI.iml" filepath="$PROJECT_DIR$/.idea/Auto_MesUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../local/.idea/local.iml" filepath="$PROJECT_DIR$/../local/.idea/local.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webFrameWork_moiiee/.idea/webFrameWork_moiiee.iml" filepath="$PROJECT_DIR$/../webFrameWork_moiiee/.idea/webFrameWork_moiiee.iml" />
+    </modules>
+  </component>
+</project>

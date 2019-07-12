@@ -1,0 +1,84 @@
+[2019-07-11 12:01:08,819] [browserUtil.py:Methond:open_browser(36)] [DEBUG]:  Starting Firefox browser
+[2019-07-11 12:01:09,125] [browserUtil.py:Methond:open_browser(38)] [DEBUG]:  Maximize the current window
+[2019-07-11 17:28:21,811] [browserUtil.py:Methond:open_browser(36)] [DEBUG]:  Starting Firefox browser
+[2019-07-11 17:28:22,081] [browserUtil.py:Methond:open_browser(38)] [DEBUG]:  Maximize the current window
+[2019-07-11 17:28:26,732] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="邮箱/手机号"]
+[2019-07-11 17:28:26,857] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="登录密码"]
+[2019-07-11 17:28:26,918] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-form-item__content>button
+[2019-07-11 17:28:27,203] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.verify-move-block
+[2019-07-11 17:32:28,302] [browserUtil.py:Methond:open_browser(36)] [DEBUG]:  Starting Firefox browser
+[2019-07-11 17:32:28,577] [browserUtil.py:Methond:open_browser(38)] [DEBUG]:  Maximize the current window
+[2019-07-11 17:32:33,276] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:32:33,495] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="邮箱/手机号"]
+[2019-07-11 17:32:33,562] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="登录密码"]
+[2019-07-11 17:32:33,598] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-form-item__content>button
+[2019-07-11 17:32:33,829] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.verify-move-block
+[2019-07-11 17:32:46,620] [browserUtil.py:Methond:open_browser(36)] [DEBUG]:  Starting Firefox browser
+[2019-07-11 17:32:46,891] [browserUtil.py:Methond:open_browser(38)] [DEBUG]:  Maximize the current window
+[2019-07-11 17:32:51,822] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:32:51,851] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="邮箱/手机号"]
+[2019-07-11 17:32:51,901] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="登录密码"]
+[2019-07-11 17:32:51,977] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-form-item__content>button
+[2019-07-11 17:32:52,226] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.verify-move-block
+[2019-07-11 17:34:25,249] [browserUtil.py:Methond:open_browser(36)] [DEBUG]:  Starting Firefox browser
+[2019-07-11 17:34:25,553] [browserUtil.py:Methond:open_browser(38)] [DEBUG]:  Maximize the current window
+[2019-07-11 17:34:30,005] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:34:30,022] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="邮箱/手机号"]
+[2019-07-11 17:34:30,038] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="邮箱/手机号"]')元素 [输入文本]：yu@qq.com
+[2019-07-11 17:34:30,051] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="登录密码"]
+[2019-07-11 17:34:30,069] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="登录密码"]')元素 [输入文本]：123456yu
+[2019-07-11 17:34:30,082] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-form-item__content>button
+[2019-07-11 17:34:30,303] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div.el-form-item__content>button')元素  [点击]
+[2019-07-11 17:34:30,315] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.verify-move-block
+[2019-07-11 17:34:30,861] [Base.py:Methond:action_slide(379)] [INFO]:  开始对locator元素进行[鼠标滑动]
+[2019-07-11 17:39:17,320] [browserUtil.py:Methond:open_browser(36)] [DEBUG]:  Starting Firefox browser
+[2019-07-11 17:39:17,598] [browserUtil.py:Methond:open_browser(38)] [DEBUG]:  Maximize the current window
+[2019-07-11 17:39:22,146] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:39:22,155] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="邮箱/手机号"]
+[2019-07-11 17:39:22,182] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="邮箱/手机号"]')元素 [输入文本]：yu@qq.com
+[2019-07-11 17:39:22,201] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="登录密码"]
+[2019-07-11 17:39:22,228] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="登录密码"]')元素 [输入文本]：123456yu
+[2019-07-11 17:39:22,245] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-form-item__content>button
+[2019-07-11 17:39:22,481] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div.el-form-item__content>button')元素  [点击]
+[2019-07-11 17:39:22,494] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.verify-move-block
+[2019-07-11 17:39:23,036] [Base.py:Methond:action_slide(381)] [INFO]:  鼠标滑动异常！ Reason:not all arguments converted during string formatting
+[2019-07-11 17:39:31,838] [browserUtil.py:Methond:open_browser(36)] [DEBUG]:  Starting Firefox browser
+[2019-07-11 17:39:32,093] [browserUtil.py:Methond:open_browser(38)] [DEBUG]:  Maximize the current window
+[2019-07-11 17:39:36,187] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:39:36,199] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="忘记密码"]
+[2019-07-11 17:39:36,410] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="忘记密码"]')元素  [点击]
+[2019-07-11 17:39:44,383] [browserUtil.py:Methond:open_browser(36)] [DEBUG]:  Starting Firefox browser
+[2019-07-11 17:39:44,659] [browserUtil.py:Methond:open_browser(38)] [DEBUG]:  Maximize the current window
+[2019-07-11 17:39:48,688] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:39:48,699] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="关于我们"]
+[2019-07-11 17:39:48,747] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="关于我们"]')元素  [点击]
+[2019-07-11 17:39:56,615] [browserUtil.py:Methond:open_browser(36)] [DEBUG]:  Starting Firefox browser
+[2019-07-11 17:39:56,875] [browserUtil.py:Methond:open_browser(38)] [DEBUG]:  Maximize the current window
+[2019-07-11 17:40:01,101] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:40:01,111] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="供应链科技"]
+[2019-07-11 17:40:01,133] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="供应链科技"]')元素  [点击]
+[2019-07-11 17:40:08,936] [browserUtil.py:Methond:open_browser(36)] [DEBUG]:  Starting Firefox browser
+[2019-07-11 17:40:09,210] [browserUtil.py:Methond:open_browser(38)] [DEBUG]:  Maximize the current window
+[2019-07-11 17:40:18,525] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:40:18,536] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="独立站收单"]
+[2019-07-11 17:40:18,549] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="独立站收单"]')元素  [点击]
+[2019-07-11 17:40:26,040] [browserUtil.py:Methond:open_browser(36)] [DEBUG]:  Starting Firefox browser
+[2019-07-11 17:40:26,324] [browserUtil.py:Methond:open_browser(38)] [DEBUG]:  Maximize the current window
+[2019-07-11 17:40:30,180] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:40:30,194] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="平台收款"]
+[2019-07-11 17:40:30,219] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="平台收款"]')元素  [点击]
+[2019-07-11 17:40:37,651] [browserUtil.py:Methond:open_browser(36)] [DEBUG]:  Starting Firefox browser
+[2019-07-11 17:40:37,907] [browserUtil.py:Methond:open_browser(38)] [DEBUG]:  Maximize the current window
+[2019-07-11 17:40:41,969] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:40:41,980] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="联系我们"]
+[2019-07-11 17:40:42,003] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="联系我们"]')元素  [点击]
+[2019-07-11 17:40:49,360] [browserUtil.py:Methond:open_browser(36)] [DEBUG]:  Starting Firefox browser
+[2019-07-11 17:40:49,625] [browserUtil.py:Methond:open_browser(38)] [DEBUG]:  Maximize the current window
+[2019-07-11 17:40:53,696] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:40:53,705] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="立即注册"]
+[2019-07-11 17:40:53,917] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="立即注册"]')元素  [点击]
+[2019-07-11 17:41:01,391] [browserUtil.py:Methond:open_browser(36)] [DEBUG]:  Starting Firefox browser
+[2019-07-11 17:41:01,659] [browserUtil.py:Methond:open_browser(38)] [DEBUG]:  Maximize the current window
+[2019-07-11 17:41:05,805] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：http://mesnew1.innertest.ipaylinks.com/#/login 
+[2019-07-11 17:41:05,815] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->xpath, value值->//a[text()="返回首页"]
+[2019-07-11 17:41:19,876] [Base.py:Methond:click(153)] [INFO]:  开始对('xpath', '//a[text()="返回首页"]')元素  [点击]
