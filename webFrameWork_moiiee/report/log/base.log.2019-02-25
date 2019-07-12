@@ -1,0 +1,125 @@
+2019-02-24 21:56:59,090 base.py[line:184] INFO 打开网址：http://192.168.124.20:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-24 21:56:59,147 base.py[line:147] INFO 开始对【('css selector', '#account')】元素 -- > 输入文本：admin
+2019-02-24 21:56:59,206 base.py[line:147] INFO 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：Admin@123
+2019-02-24 21:58:05,082 base.py[line:184] INFO 打开网址：http://192.168.124.20:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-24 21:58:05,136 base.py[line:147] INFO 开始对【('css selector', '#account')】元素 -- > 输入文本：admin
+2019-02-24 21:58:05,198 base.py[line:147] INFO 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：Admin@123
+2019-02-24 21:58:05,486 base.py[line:153] INFO 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-24 22:07:14,979 base.py[line:184] INFO 打开网址：http://192.168.124.20:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-24 22:07:15,038 base.py[line:147] INFO 开始对【('css selector', '#account')】元素 -- > 输入文本：admin
+2019-02-24 22:07:15,101 base.py[line:147] INFO 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：Admin@123
+2019-02-24 22:07:15,381 base.py[line:153] INFO 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-24 22:08:38,287 base.py[line:61] ERROR 定位失败->xpath, value值->//*[text()="忘记密码"] 原因：定位元素超时啦
+2019-02-24 22:08:38,585 base.py[line:236] INFO 屏幕截图成功！文件为:D:\Files\Py_Space\webFrameWork_moiiee\screenshots\20190224_22_08_23.png
+2019-02-24 22:08:38,850 base.py[line:236] INFO 屏幕截图成功！文件为:D:\Files\Py_Space\webFrameWork_moiiee\screenshots\20190224_22_08_23.png
+2019-02-24 22:08:39,165 base.py[line:184] INFO 打开网址：http://192.168.124.20:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-24 22:08:39,222 base.py[line:147] INFO 开始对【('css selector', '#account')】元素 -- > 输入文本：admin
+2019-02-24 22:08:39,291 base.py[line:147] INFO 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：Admin@123
+2019-02-24 22:08:39,622 base.py[line:153] INFO 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-24 22:09:18,789 base.py[line:61] ERROR 定位失败->xpath, value值->//*[text()="忘记密码"] 原因：定位元素超时啦
+2019-02-24 22:09:19,066 base.py[line:236] INFO 屏幕截图成功！文件为:D:\Files\Py_Space\webFrameWork_moiiee\screenshots\20190224_22_09_05.png
+2019-02-24 22:09:19,333 base.py[line:236] INFO 屏幕截图成功！文件为:D:\Files\Py_Space\webFrameWork_moiiee\screenshots\20190224_22_09_05.png
+2019-02-24 22:09:19,648 base.py[line:184] INFO 打开网址：http://192.168.124.20:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-24 22:09:19,704 base.py[line:147] INFO 开始对【('css selector', '#account')】元素 -- > 输入文本：admin
+2019-02-24 22:09:19,768 base.py[line:147] INFO 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：Admin@123
+2019-02-24 22:09:20,058 base.py[line:153] INFO 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-24 22:09:59,660 base.py[line:61] ERROR 定位失败->xpath, value值->//*[text()="忘记密码"] 原因：定位元素超时啦
+2019-02-24 22:09:59,980 base.py[line:236] INFO 屏幕截图成功！文件为:D:\Files\Py_Space\webFrameWork_moiiee\screenshots\20190224_22_09_46.png
+2019-02-24 22:10:00,257 base.py[line:236] INFO 屏幕截图成功！文件为:D:\Files\Py_Space\webFrameWork_moiiee\screenshots\20190224_22_09_46.png
+2019-02-24 22:10:23,863 base.py[line:184] INFO 打开网址：http://192.168.124.20:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-24 22:10:24,037 base.py[line:153] INFO 开始对【('xpath', '//*[text()="忘记密码"]')】元素 -- > 点击
+2019-02-24 22:10:33,691 base.py[line:184] INFO 打开网址：http://192.168.124.20:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-24 22:10:33,754 base.py[line:147] INFO 开始对【('css selector', '#account')】元素 -- > 输入文本：admin
+2019-02-24 22:10:33,815 base.py[line:147] INFO 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：Admin@123
+2019-02-24 22:10:34,126 base.py[line:153] INFO 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-24 22:11:21,696 base.py[line:184] INFO 打开网址：http://192.168.124.20:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-24 22:11:21,866 base.py[line:153] INFO 开始对【('xpath', '//*[text()="忘记密码"]')】元素 -- > 点击
+2019-02-24 22:11:22,111 base.py[line:184] INFO 打开网址：http://192.168.124.20:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-24 22:11:22,174 base.py[line:147] INFO 开始对【('css selector', '#account')】元素 -- > 输入文本：admin
+2019-02-24 22:11:22,231 base.py[line:147] INFO 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：Admin@123
+2019-02-24 22:11:22,512 base.py[line:153] INFO 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-24 22:13:18,754 base.py[line:184] INFO 打开网址：http://192.168.124.20:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-24 22:13:18,930 base.py[line:153] INFO 开始对【('xpath', '//*[text()="忘记密码"]')】元素 -- > 点击
+2019-02-24 22:13:19,181 base.py[line:184] INFO 打开网址：http://192.168.124.20:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-24 22:13:19,234 base.py[line:147] INFO 开始对【('css selector', '#account')】元素 -- > 输入文本：admin
+2019-02-24 22:13:19,292 base.py[line:147] INFO 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：Admin@123
+2019-02-24 22:13:19,554 base.py[line:153] INFO 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-24 22:14:00,614 base.py[line:184] INFO 打开网址：http://192.168.124.20:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-24 22:14:00,721 base.py[line:153] INFO 开始对【('xpath', '//*[text()="忘记密码"]')】元素 -- > 点击
+2019-02-24 22:14:00,880 base.py[line:184] INFO 打开网址：http://192.168.124.20:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-24 22:14:00,925 base.py[line:147] INFO 开始对【('css selector', '#account')】元素 -- > 输入文本：admin
+2019-02-24 22:14:00,979 base.py[line:147] INFO 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：Admin@123
+2019-02-24 22:14:01,166 base.py[line:153] INFO 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-25 10:46:19,814 base.py[line:184] INFO 打开网址：http://192.168.124.20:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-25 10:46:29,909 base.py[line:61] ERROR 定位失败->xpath, value值->//*[text()="忘记密码"] 原因：定位元素超时啦
+2019-02-25 10:46:30,239 base.py[line:236] INFO 屏幕截图成功！文件为:E:\webFrameWork_moiiee\screenshots\20190225_10_45_47.png
+2019-02-25 10:46:30,563 base.py[line:236] INFO 屏幕截图成功！文件为:E:\webFrameWork_moiiee\screenshots\20190225_10_45_47.png
+2019-02-25 10:46:51,863 base.py[line:184] INFO 打开网址：http://192.168.124.20:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-25 10:46:58,166 base.py[line:147] INFO 开始对【('css selector', '#account')】元素 -- > 输入文本：admin
+2019-02-25 10:46:58,240 base.py[line:147] INFO 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：Admin@123
+2019-02-25 10:46:58,487 base.py[line:153] INFO 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-25 10:47:59,929 base.py[line:184] INFO 打开网址：http://127.0.0.1:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-25 10:47:59,999 base.py[line:147] INFO 开始对【('css selector', '#account')】元素 -- > 输入文本：admin
+2019-02-25 10:48:00,081 base.py[line:147] INFO 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：Admin@123
+2019-02-25 10:48:00,205 base.py[line:153] INFO 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-25 10:57:27,279 base.py[line:184] INFO 打开网址：http://127.0.0.1:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-25 10:57:27,352 base.py[line:147] INFO 开始对【('css selector', '#account')】元素 -- > 输入文本：
+2019-02-25 10:57:27,422 base.py[line:147] INFO 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：123456
+2019-02-25 10:57:27,546 base.py[line:153] INFO 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-25 10:57:27,550 base.py[line:349] INFO 开始获取系统弹出框文本：登录失败，请检查您的用户名或密码是否填写正确。
+2019-02-25 10:59:03,092 base.py[line:184] INFO 打开网址：http://127.0.0.1:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-25 10:59:03,155 base.py[line:147] INFO 开始对【('css selector', '#account')】元素 -- > 输入文本：
+2019-02-25 10:59:03,249 base.py[line:147] INFO 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：123456
+2019-02-25 10:59:03,374 base.py[line:153] INFO 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-25 10:59:03,377 base.py[line:349] INFO 开始获取系统弹出框文本：登录失败，请检查您的用户名或密码是否填写正确。
+2019-02-25 11:05:13,878 base.py[line:184] INFO 打开网址：http://127.0.0.1:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-25 11:05:13,926 base.py[line:147] INFO 开始对【('css selector', '#account')】元素 -- > 输入文本：
+2019-02-25 11:05:13,986 base.py[line:147] INFO 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：123456
+2019-02-25 11:05:14,282 base.py[line:153] INFO 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-25 11:05:14,286 base.py[line:349] INFO 开始获取系统弹出框文本：登录失败，请检查您的用户名或密码是否填写正确。
+2019-02-25 11:06:19,680 base.py[line:184] INFO 打开网址：http://127.0.0.1:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-25 11:06:19,730 base.py[line:147] INFO 开始对【('css selector', '#account')】元素 -- > 输入文本：
+2019-02-25 11:06:19,794 base.py[line:147] INFO 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：123456
+2019-02-25 11:06:19,915 base.py[line:153] INFO 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-25 11:06:19,917 base.py[line:349] INFO 开始获取系统弹出框文本：登录失败，请检查您的用户名或密码是否填写正确。
+2019-02-25 11:06:19,920 base.py[line:338] INFO 点击系统弹框的确定按钮
+2019-02-25 11:06:22,923 base.py[line:184] INFO 打开网址：http://127.0.0.1:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-25 11:06:22,988 base.py[line:147] INFO 开始对【('css selector', '#account')】元素 -- > 输入文本：admins
+2019-02-25 11:06:23,045 base.py[line:147] INFO 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：123456
+2019-02-25 11:06:23,135 base.py[line:153] INFO 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-25 11:06:23,138 base.py[line:349] INFO 开始获取系统弹出框文本：登录失败，请检查您的用户名或密码是否填写正确。
+2019-02-25 11:06:23,142 base.py[line:338] INFO 点击系统弹框的确定按钮
+2019-02-25 11:17:27,253 base.py[line:184] INFO 打开网址：http://127.0.0.1:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-25 11:17:27,302 base.py[line:147] INFO Base - > 开始对【('css selector', '#account')】元素 -- > 输入文本：
+2019-02-25 11:17:27,360 base.py[line:147] INFO Base - > 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：123456
+2019-02-25 11:17:27,514 base.py[line:153] INFO Base - > 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-25 11:17:27,519 base.py[line:351] INFO Base - >  开始获取系统弹出框文本：登录失败，请检查您的用户名或密码是否填写正确。
+2019-02-25 11:17:29,042 base.py[line:184] INFO 打开网址：http://127.0.0.1:81/zentao/user-login-L3plbnRhby8=.html 
+2019-02-25 11:17:29,108 base.py[line:147] INFO Base - > 开始对【('css selector', '#account')】元素 -- > 输入文本：admins
+2019-02-25 11:17:29,155 base.py[line:147] INFO Base - > 开始对【('css selector', '[name="password"]')】元素 -- > 输入文本：123456
+2019-02-25 11:17:29,262 base.py[line:153] INFO Base - > 开始对【('xpath', '//*[text()="登录"]')】元素 -- > 点击
+2019-02-25 11:17:29,267 base.py[line:351] INFO Base - >  开始获取系统弹出框文本：登录失败，请检查您的用户名或密码是否填写正确。
+2019-02-25 11:43:01,214 base.py[line:55] ERROR 定位失败->xpath, value值->//nav[@id='mainmenu']/ul/li/a[text()='产品'] 原因：页面alert弹出来啦
+2019-02-25 11:43:01,216 base.py[line:240] ERROR 屏幕截图失败！Reason:Alert Text: None
+Message: unexpected alert open: {Alert text : 登录失败，请检查您的用户名或密码是否填写正确。}
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-25 11:43:01,218 base.py[line:240] ERROR 屏幕截图失败！Reason:Alert Text: None
+Message: unexpected alert open: {Alert text : 登录失败，请检查您的用户名或密码是否填写正确。}
+  (Session info: chrome=72.0.3626.119)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-25 13:51:13,781 base.py[line:61] ERROR 定位失败->css selector, value值->ul.chosen-results>li.result-selected) 原因：定位元素超时啦
+2019-02-25 13:53:18,926 base.py[line:61] ERROR 定位失败->css selector, value值->ul.chosen-results) 原因：定位元素超时啦
+2019-02-25 13:56:17,653 base.py[line:61] ERROR 定位失败->css selector, value值->ul.chosen-results) 原因：定位元素超时啦
+2019-02-25 13:57:06,141 base.py[line:74] ERROR 定位失败->css selector, value值->ul.chosen-results)  可能原因 :Message: chrome not reachable  (Session info: chrome=72.0.3626.119)  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+2019-02-25 13:57:37,417 base.py[line:61] ERROR 定位失败->css selector, value值->ul.chosen-results) 原因：定位元素超时啦
+2019-02-25 13:58:34,005 base.py[line:61] ERROR 定位失败->css selector, value值->ul.chosen-results) 原因：定位元素超时啦
+2019-02-25 14:03:11,805 base.py[line:61] ERROR 定位失败->css selector, value值->div#PO_chosen>div>ul.chosen-results>li) 原因：定位元素超时啦
+2019-02-25 14:09:26,034 base.py[line:61] ERROR 定位失败->css selector, value值->div#PO_chosen>div>ul.chosen-results>li) 原因：定位元素超时啦
+2019-02-25 14:12:19,449 base.py[line:61] ERROR 定位失败->css selector, value值->div#QD_chosen>div>ul.chosen-results>li) 原因：定位元素超时啦
+2019-02-25 14:13:11,804 base.py[line:61] ERROR 定位失败->css selector, value值->div#QD_chosen>div>ul.chosen-results>li.active-result) 原因：定位元素超时啦
+2019-02-25 14:15:33,791 base.py[line:61] ERROR 定位失败->css selector, value值->div#PO_chosen>div>ul.chosen-results>li.active-result) 原因：定位元素超时啦
+2019-02-25 18:06:51,223 base.py[line:61] ERROR 定位失败->css selector, value值->//*[text()="保存"] 原因：定位元素超时啦
+2019-02-25 18:09:13,948 base.py[line:61] ERROR 定位失败->css selector, value值->//button[text()="保存"] 原因：定位元素超时啦

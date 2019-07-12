@@ -1,0 +1,22 @@
+2019-03-04 13:45:46,806 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-04 13:46:00,066 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-04 13:46:26,657 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-04 13:46:38,679 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-04 13:46:50,640 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-04 13:47:17,276 base.py[line:61] ERROR 定位失败->xpath, value值->//*[text()="忘记密码"] 原因：定位元素超时啦
+2019-03-04 13:47:29,312 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-04 13:47:41,319 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-04 13:47:53,340 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-04 13:48:05,416 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-04 13:48:17,403 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-06 21:32:52,949 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-06 21:33:04,680 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-06 21:33:22,619 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-06 21:33:34,359 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-06 21:33:46,092 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-06 21:34:04,048 base.py[line:61] ERROR 定位失败->xpath, value值->//*[text()="忘记密码"] 原因：定位元素超时啦
+2019-03-06 21:34:15,790 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-06 21:34:27,531 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-06 21:34:39,270 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-06 21:34:51,005 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦
+2019-03-06 21:35:02,744 base.py[line:61] ERROR 定位失败->css selector, value值->#account 原因：定位元素超时啦

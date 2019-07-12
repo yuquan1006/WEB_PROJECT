@@ -1,0 +1,36 @@
+2019-02-24 22:07:15,506 test_login.py[line:33] INFO 测试通过！
+2019-02-24 22:08:38,850 test_login.py[line:45] ERROR 测试不通过
+2019-02-24 22:08:39,705 test_login.py[line:33] INFO 测试通过！
+2019-02-24 22:09:19,333 test_login.py[line:45] ERROR 测试不通过
+2019-02-24 22:09:20,137 test_login.py[line:33] INFO 测试通过！
+2019-02-24 22:10:00,257 test_login.py[line:45] ERROR 测试不通过
+2019-02-24 22:10:24,048 test_login.py[line:43] INFO 测试通过！
+2019-02-24 22:11:21,875 test_login.py[line:43] INFO 测试通过！
+2019-02-24 22:11:22,578 test_login.py[line:33] INFO 测试通过！
+2019-02-24 22:13:18,941 test_login.py[line:43] INFO 测试通过！
+2019-02-24 22:13:19,616 test_login.py[line:33] INFO 测试通过！
+2019-02-24 22:14:00,730 test_login.py[line:43] INFO 测试通过！
+2019-02-24 22:14:01,276 test_login.py[line:33] INFO 测试通过！
+2019-02-25 10:46:30,563 test_login.py[line:45] ERROR 测试不通过
+2019-02-25 10:46:58,489 test_login.py[line:35] ERROR 测试不通过
+2019-02-25 11:05:14,286 test_login.py[line:45] INFO 测试通过！
+2019-02-25 11:05:14,976 test_login.py[line:58] ERROR 测试不通过
+2019-02-25 11:06:19,920 test_login.py[line:45] INFO 测试通过！
+2019-02-25 11:06:23,142 test_login.py[line:56] INFO 测试通过！
+2019-02-25 11:17:26,447 test_login.py[line:24] INFO  - - > Start Next Testcase Now
+2019-02-25 11:17:28,754 test_login.py[line:24] INFO  - - > Start Next Testcase Now
+2019-02-25 11:19:54,181 test_login.py[line:24] INFO  - - > Start Next Testcase Now
+2019-02-25 11:19:56,001 test_login.py[line:24] INFO  - - > Start Next Testcase Now
+2019-02-25 11:19:58,429 test_login.py[line:35] INFO  - - > 开始检验检查点
+2019-02-25 11:19:58,498 test_login.py[line:38] INFO 测试通过！
+2019-02-25 11:19:58,499 test_login.py[line:39] INFO - - - > Test PASS !
+2019-02-25 11:20:00,629 test_login.py[line:24] INFO  - - > Start Next Testcase Now
+2019-02-25 11:20:02,253 test_login.py[line:24] INFO  - - > Start Next Testcase Now
+2019-02-25 11:22:14,897 test_login.py[line:35] INFO  - - > 开始检验检查点
+2019-02-25 11:22:14,981 test_login.py[line:38] INFO 测试通过！
+2019-02-25 11:22:14,982 test_login.py[line:39] INFO - - - > Test PASS !
+2019-02-25 11:24:41,785 test_login.py[line:35] INFO Testcase - > 开始检验检查点
+2019-02-25 11:24:41,920 test_login.py[line:38] INFO Testcase - > Test PASS !
+2019-02-25 18:59:21,805 test_login.py[line:35] INFO Testcase - > 开始检验检查点
+2019-02-25 18:59:21,887 test_login.py[line:38] INFO Testcase - > Test PASS !
+2019-03-06 21:34:39,664 test_login.py[line:40] ERROR Testcase - > Test FAIL !
